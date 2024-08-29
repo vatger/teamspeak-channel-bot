@@ -12,10 +12,7 @@ export const chatChannelNames = [
     "Glide Path Gathering",
     "Nimbus Nest",
     "Horizon Harbor",
-    "Tailwind Terrace"
-]
-
-export const trainingChannelNames = [
+    "Tailwind Terrace",
     "SkyClass Pilot Lounge",
     "Altitude Academy",
     "Control Tower Briefing Room",
