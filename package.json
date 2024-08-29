@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "test": "tsc && node index.js"
+    "start": "tsc && node build/index.js"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +13,7 @@
     "@types/dotenv": "^8.2.0",
     "@types/node": "^20.8.6",
     "dotenv": "^16.3.1",
-    "ts3-nodejs-library": "^3.5.1"
+    "ts3-nodejs-library": "^3.5.1",
+    "uuidv4": "^6.2.13"
   }
 }
